@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="ENIRIQUE.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="400"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3713"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:none"
+       transform="matrix(0.40862019,0,0,0.44686635,-29.177391,-86.63138)"><flowRegion
+         id="flowRegion3715"
+         style="fill:#000080"><rect
+           id="rect3717"
+           width="462.85715"
+           height="208.57143"
+           x="151.42857"
+           y="376.80539"
+           style="fill:#000080" /></flowRegion><flowPara
+         id="flowPara3719">Enrique</flowPara></flowRoot>    <path
+       sodipodi:type="star"
+       id="path3721"
+       sodipodi:sides="5"
+       sodipodi:cx="121.70833"
+       sodipodi:cy="95.916666"
+       sodipodi:r1="23.544003"
+       sodipodi:r2="11.772001"
+       sodipodi:arg1="0.83082144"
+       sodipodi:arg2="1.45914"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 137.58333,113.30357 -14.56331,-5.68821 -12.94198,8.77217 0.9095,-15.60828 -12.342122,-9.597796 15.125412,-3.958242 5.31412,-14.70394 8.43852,13.161957 15.62643,0.510262 -9.91012,12.092779 z"
+       inkscape:transform-center-x="0.81066942"
+       inkscape:transform-center-y="-1.4632615"
+       style="fill:#0000ff;stroke-width:0.26458332" />
+  </g>
+</svg>
